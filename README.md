@@ -11,8 +11,11 @@ El jugador debe evitar cometer demasiados errores mientras intenta descubrir la 
 ## Estructura del proyecto
 
 ProyectoPDC(1).py ← Código principal del juego
+
 PalabrasFacil.txt ← Lista de palabras fáciles (4-5 letras)
+
 PalabrasMedio.txt ← Lista de palabras medias (6-7 letras)
+
 PalabrasDificil.txt ← Lista de palabras difíciles (8+ letras)
 
 ---
