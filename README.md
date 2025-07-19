@@ -19,7 +19,7 @@ PalabrasDificil.txt ← Lista de palabras difíciles (8+ letras)
 
 ## Tecnologías usadas
 
-- Python 3.x
+- Python 
 - Entrada/Salida por consola
 - Lectura de archivos `.txt`
 - Listas, condicionales, ciclos, funciones
