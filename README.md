@@ -17,7 +17,7 @@ PalabrasDificil.txt ← Lista de palabras difíciles (8+ letras)
 
 ---
 
-## 🔧 Tecnologías usadas
+## Tecnologías usadas
 
 - Python 3.x
 - Entrada/Salida por consola
